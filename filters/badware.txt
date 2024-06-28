@@ -4202,6 +4202,7 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 ||xhsbpza.com^$all
 ||union.macoms.la^$all
 ||newcrbpc.com^$all
+||polyfill.cloud^$all
 
 ! https://github.com/uBlockOrigin/uAssets/pull/24272
 ! https://www.bleepingcomputer.com/news/security/polyfill-claims-it-has-been-defamed-returns-after-domain-shut-down/
